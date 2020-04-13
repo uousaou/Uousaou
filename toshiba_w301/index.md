@@ -11,7 +11,7 @@
 
 スペックについては　→　[価格.com - 東芝 VARDIA RD-W301 スペック・仕様](https://kakaku.com/item/20278010364/spec/)
 
-取説　→　[取扱説明書ダウンロード | RD-W301 取扱説明書](http://www.toshiba-living.jp/rev.php?no=71875&YN=Y)
+取説　→　[取扱説明書ダウンロード  RD-W301 取扱説明書](http://www.toshiba-living.jp/rev.php?no=71875&YN=Y)
 
 
 ## 修理部について
