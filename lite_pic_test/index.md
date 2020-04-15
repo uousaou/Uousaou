@@ -2,7 +2,7 @@
 
 Webpで圧縮しています
 
- *※ブラウザ(IE or old Browser)によっては表示できません*
+ **※ブラウザ(IE or old Browser)によっては表示できません**
 
 <img src="webp_img/img_01.webp" width=60%>
 
