@@ -16,7 +16,7 @@ Webpで圧縮しています
 
 <p><img src="webp_img/img_06.webp" width=60%>
 
-<p><img src="webp_img/img_07.webp" width=60%>
+<p><img src="webp_img/img_07.webp" width=60%></p>
 
 ~~[PNGver](https://git.kasumin.tokyo/png/)~~
 
