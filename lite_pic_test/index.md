@@ -1,0 +1,24 @@
+# 軽量テスト
+
+Webpで圧縮しています
+
+ *※ブラウザによっては表示できません*
+
+![01](webp_img/img_01.webp)
+
+![02](webp_img/img_02.webp)
+
+![03](webp_img/img_03.webp)
+
+![04](webp_img/img_04.webp)
+
+![05](webp_img/img_05.webp)
+
+![06](webp_img/img_06.webp)
+
+![07](webp_img/img_07.webp)
+
+[PNGver](https://git.kasumin.tokyo/png/)
+
+ - - -
+[戻る](https://git.kasumin.tokyo)
